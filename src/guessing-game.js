@@ -20,7 +20,7 @@ class GuessingGame {
     }
 
     greater() {
-
+        this.minRange = this.result;
     }
 }
 
