@@ -16,7 +16,7 @@ class GuessingGame {
     }
 
     lower() {
-
+        this.maxRange = this.result;
     }
 
     greater() {
